@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajneet Kaur
-- 👀 I’m interested in solving problems using PHP, JAVASCRIPT OR PYTHON
-- 🌱 I’m currently learning APP DEVELOPMENT 
+- 👀 I’m interested in solving problems using modern technologies
+- 🌱 I’m currently working as an  APP DEVELOPER
 - 📫 reach me AT rajneetkaur1511@gmail.com
 
 <!---
